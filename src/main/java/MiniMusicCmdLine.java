@@ -49,3 +49,6 @@ public class MiniMusicCmdLine {
         }
     } // play
 } // class
+// Either navigate to src -> javac MiniMusicCmdLine.java
+    // Then -> java MiniMusicCmdLine 3 50
+// Or -> edit configuration and set the cmd-line parameters in there
